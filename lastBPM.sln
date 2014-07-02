@@ -5,20 +5,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastBPM", "lastBPM\lastBPM.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastBPM.Tests", "lastBPM.Tests\lastBPM.Tests.csproj", "{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastBPM.Entities", "lastBPM.Entities\lastBPM.Entities.csproj", "{7F4DA693-E4A0-436F-98FA-7033377EBDF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Release|Any CPU.Build.0 = Release|Any CPU
 		{85104313-2989-4CAA-9A07-2D33FA0B0AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{85104313-2989-4CAA-9A07-2D33FA0B0AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85104313-2989-4CAA-9A07-2D33FA0B0AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85104313-2989-4CAA-9A07-2D33FA0B0AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4DA693-E4A0-436F-98FA-7033377EBDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4DA693-E4A0-436F-98FA-7033377EBDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4DA693-E4A0-436F-98FA-7033377EBDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4DA693-E4A0-436F-98FA-7033377EBDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = lastBPM\lastBPM.csproj
