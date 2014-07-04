@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastBPM", "lastBPM\lastBPM.csproj", "{85104313-2989-4CAA-9A07-2D33FA0B0AFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastBPM.Portal", "lastBPM.Portal\lastBPM.Portal.csproj", "{85104313-2989-4CAA-9A07-2D33FA0B0AFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastBPM.Tests", "lastBPM.Tests\lastBPM.Tests.csproj", "{19E4BB9E-CB35-4AA0-A22C-EDE54812B165}"
 EndProject
