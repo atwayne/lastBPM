@@ -1,1 +1,0 @@
-This is a sample check in to check functionablity of svn post-commit hook
